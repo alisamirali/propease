@@ -8,7 +8,7 @@ PropEase is a modern real estate management landing page that showcases property
 
 ## 🔗 Live Preview
 
-Check out the live demo of caps.ai here: [Live Preview](https://prop-ease-platform.vercel.app)
+Check out the live demo here: [Live Preview](https://prop-ease-platform.vercel.app)
 
 ## 💻 Tech Stack
 
